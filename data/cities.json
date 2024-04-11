@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Mecca",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2024-01-05T13:14:23.149Z",
+      "notes": "",
+      "position": {
+        "lat": "21.422941899622668",
+        "lng": "39.80346679687501"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Ta’if",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2024-01-12T16:27:15.541Z",
+      "notes": "klajhsdfasd",
+      "position": {
+        "lat": "21.27145920527429",
+        "lng": "40.409088134765625"
+      },
+      "id": 6
+    },
+    {
+      "cityName": "Olathe",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-02-20T13:57:53.273Z",
+      "notes": "",
+      "position": {
+        "lat": "38.90541694741184",
+        "lng": "-94.76806640625001"
+      },
+      "id": 7
+    }
+  ]
+}
